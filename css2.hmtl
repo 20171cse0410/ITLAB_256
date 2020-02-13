@@ -1,0 +1,16 @@
+<html>
+<head>
+<title>css2</title>
+<style type="text/css">
+div > p{ text-align:center; }
+div  u{background-color:lightblue;}
+*{border:3px solid blue;}
+</style>
+</head>
+<body>
+<div>
+<p> para 1 in the div</p>
+<h1> <u> para2 in the div </u></h1>
+</div>
+</body>
+</html>
