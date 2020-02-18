@@ -1,0 +1,8 @@
+h1
+   {text-align:center;color:blue;}
+
+p{font-size:300%; background:yellow; color:brown;}
+
+div > p{ text-align:center; }
+div  u{background-color:lightblue;}
+ul i li{color:red}
